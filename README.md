@@ -12,6 +12,7 @@ After that, just
 ```
 git clone https://github.com/severusseptimius/lxqt-1.1-debian #assuming you didn't do this already
 cd lxqt-1.1-debian
+cd lxqt
 sudo apt install ./*.deb
 sudo reboot
 ...
