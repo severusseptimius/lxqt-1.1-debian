@@ -7,10 +7,17 @@ It is structured in three main folders:
 - **lxqt-dbgsym** (this one contains the debugging packages. Unless you really need them, you *shouldn't* have to install them.)
 
 # Installing
+
+### FOR UBUNTU
+If you want to install these packages on *ubuntu, it is strongly recommended that you use this PPA:
+https://launchpad.net/~severusseptimius/+archive/ubuntu/lxqt
+***
+
+### FOR DEBIAN
 Before installing, it is recomended that you do `sudo apt remove libfm-qt*`, followed by `apt --fix-broken install`. This will remove the packages that might make problems, but it will not remove your configuration files.
 After that, just 
 ```
-git clone https://github.com/severusseptimius/lxqt-1.1-debian #assuming you didn't do this already
+git clone https://github.com/severusseptimius/lxqt-1.1-debian   # assuming you didn't do this already
 cd lxqt-1.1-debian
 cd lxqt
 sudo apt install ./*.deb
