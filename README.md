@@ -1,6 +1,6 @@
 # lxqt-1.1-debian
 
-This repo contains .deb packages of LXQt 1.1 that are tested with Debian unstable/testing/bullseye and Ubuntu 22.04.
+This repo contains .deb packages of LXQt 1.1 that are tested with Debian unstable/testing and Ubuntu 22.04.
 It is structured in three main folders: 
 - **lxqt** (this is the one you probably want as a normal user)
 - **lxqt-dev** (this one contains the development versions of the packages; unless you need them to build lxqt from source you don't need them)
