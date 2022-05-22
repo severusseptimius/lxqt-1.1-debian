@@ -8,6 +8,8 @@ It is structured in three main folders:
 
 # Installing
 
+**Packages for arm64 can be found [here](https://github.com/djsftree/arm64_playground_djsftree/tree/1.1.0-packages), thanks to [@djsftree](https://github.com/djsftree)**
+
 ### FOR UBUNTU
 If you want to install these packages on *ubuntu, it is strongly recommended that you use this PPA:
 https://launchpad.net/~severusseptimius/+archive/ubuntu/lxqt
